@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MDP_Coursework</string>
+    <string name="audiobooktitle">Audiobooks</string>
+    <string name="settingsbutton">settings</string>
+    <string name="previousButton">Previous</string>
+    <string name="playButton">Play</string>
+    <string name="nextButton">Next</string>
+    <string name="backButton">Back</string>
+    <string name="addBookmark">Add Bookmark</string>
+    <string name="clearBookmark">Clear Bookmark</string>
+    <string name="playbackSpeed">Playback Speed</string>
+    <string name="backgroundColor">Background Color</string>
+    <string name="submitButton">Submit</string>
+    <string name="pauseButton">Pause</string>
+</resources>
